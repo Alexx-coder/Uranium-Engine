@@ -1,0 +1,31 @@
+Uranium Engine
+
+Copyright (c) 2026 Alexx-coder
+
+This product includes software developed by:
+
+- cryptography (https://github.com/pyca/cryptography)
+  Copyright (c) 2014-2026 Individual contributors
+  Licensed under Apache License 2.0
+
+- pqcrypto (https://github.com/backbone-hq/pqcrypto.git)
+  Copyright (c) 2025 backbone-root
+  Licensed under MIT License
+
+
+---
+
+This product includes cryptographic software written by:
+- The OpenSSL Project (https://www.openssl.org)
+- Daniel J. Bernstein (ChaCha20, Poly1305)
+
+---
+
+HybridQuantumEngine in development, but open code for HybridQuantumEngine will be posted. HybridQuantumEngine в разработке, но открытый код для HybridQuantumEngine будет выложен
+
+---
+
+The post-quantum part (Kyber768) is based on an algorithm recommended by NIST (National Institute of Standards and Technology) for resistance to quantum attacks.
+
+Пост-квантовая часть (Kyber768) основана на алгоритме, рекомендованном NIST (National Institute of Standards and Technology) для устойчивости к квантовым атакам.
+
